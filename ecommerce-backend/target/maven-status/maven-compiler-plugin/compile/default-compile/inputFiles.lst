@@ -1,72 +1,73 @@
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\BulkUploadService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\AdminOrderController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\OrderItemRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\OrderItem.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Product.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\AdminService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\ReviewRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\AddressRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\CartService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\CategoryService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Review.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\dto\AdminLoginRequest.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\OfferRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\util\PasswordValidator.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\OfferService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Wishlist.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\EcommerceApplication.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Admin.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\FeedbackService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Payment.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\AuthService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\dto\DashboardStats.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\config\CorsConfig.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\OrderController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\dto\LoginRequest.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\util\PasswordUtil.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\CartItemRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Order.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\ProductController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\CartItem.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\AdminRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\RecentlyViewedRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\PaymentRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\CouponController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Cart.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\UserService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\OrderService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\CartController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Address.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\AuthController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\ProductRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\AdminController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\DataController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\ReviewController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\dto\RegisterRequest.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\UserRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\ReviewService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\RecentlyViewed.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\CartRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\OfferController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\AdminProductController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\CouponService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\dto\PlaceOrderRequest.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\User.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\CategoryController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Coupon.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\CategoryRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\CouponRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\ProductService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\service\WishlistService.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\UserController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\dto\AddToCartRequest.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Category.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Feedback.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\util\PasswordHashGenerator.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\OrderRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\WishlistRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\WishlistController.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\repository\FeedbackRepository.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\dto\AuthResponse.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\model\Offer.java
-C:\Users\vikas\.gemini\antigravity\playground\giant-nebula\ecommerce-backend\src\main\java\com\ecommerce\controller\FeedbackController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\dto\DashboardStats.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Product.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\dto\AddToCartRequest.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\AuthController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\ReviewRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\CartController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\util\PasswordUtil.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\CartItem.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\util\PasswordValidator.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\RecentlyViewedRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Feedback.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\UserService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Review.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\CartItemRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\EcommerceApplication.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Order.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\RecentlyViewed.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\FeedbackController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\UserRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\CartService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\DataController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\ProductRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\InvoiceService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\User.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\CouponController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\OrderService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Address.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\CategoryController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\CategoryRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\FeedbackService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Wishlist.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\UserController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\CartRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\AdminProductController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\OfferRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\OrderController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\OfferService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\AdminController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\BulkUploadService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\WishlistService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\OfferController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\OrderRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\AddressRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\dto\PlaceOrderRequest.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\dto\AuthResponse.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\WishlistRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\WishlistController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\FeedbackRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Admin.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\dto\RegisterRequest.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\CouponRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\ReviewController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Offer.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\AdminService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\CategoryService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\AdminRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Coupon.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\OrderItem.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\CouponService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\ProductService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\ReviewService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\dto\AdminLoginRequest.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Payment.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\dto\LoginRequest.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\service\AuthService.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\PaymentRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\util\PasswordHashGenerator.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Category.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\AdminOrderController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\controller\ProductController.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\repository\OrderItemRepository.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\model\Cart.java
+C:\Users\vikas\OneDrive\Desktop\My Projects\E-Cart SpringBoot\ecommerce-backend\src\main\java\com\ecommerce\config\CorsConfig.java
